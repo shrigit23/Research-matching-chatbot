@@ -1,0 +1,6 @@
+Name: Dr. Ravi Kumar
+Department: CSE
+Research Areas: NLP, Machine Learning
+Experience: 10 years
+Publications: 20 papers in NLP and AI
+Description: Works on text analysis, chatbots, and language models.

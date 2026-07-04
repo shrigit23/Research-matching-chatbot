@@ -1,0 +1,6 @@
+Name: Dr. Pooja Nair
+Department: IT
+Research Areas: Cloud Computing, Distributed Systems
+Experience: 8 years
+Publications: 16 papers
+Description: Focus on cloud platforms and scalable systems.

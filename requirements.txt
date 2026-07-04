@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+
+chromadb
+sentence-transformers
+transformers
+torch
+
+python-dotenv
+tavily-python
+huggingface-hub

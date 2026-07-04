@@ -1,0 +1,6 @@
+Name: Dr. Anita Sharma
+Department: IT
+Research Areas: Data Mining, Big Data
+Experience: 9 years
+Publications: 18 papers
+Description: Focus on data analysis, big data tools, and pattern discovery.

@@ -1,0 +1,6 @@
+Name: Dr. Arjun Singh
+Department: CSE
+Research Areas: Blockchain, Cryptography
+Experience: 10 years
+Publications: 19 papers
+Description: Works on blockchain systems and secure transactions.

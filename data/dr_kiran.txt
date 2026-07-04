@@ -1,0 +1,6 @@
+Name: Dr. Kiran Patel
+Department: CSE
+Research Areas: Cybersecurity, Network Security
+Experience: 12 years
+Publications: 25 papers
+Description: Works on ethical hacking, network protection, and data privacy.

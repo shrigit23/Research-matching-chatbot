@@ -1,0 +1,6 @@
+Name: Dr. Vikram Rao
+Department: CSE
+Research Areas: Robotics, Automation
+Experience: 13 years
+Publications: 30 papers
+Description: Works on robots, automation, and control systems.

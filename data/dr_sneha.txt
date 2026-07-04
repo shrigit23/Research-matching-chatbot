@@ -1,0 +1,6 @@
+Name: Dr. Sneha Reddy
+Department: CSE
+Research Areas: Computer Vision, Deep Learning
+Experience: 8 years
+Publications: 15 papers in image processing
+Description: Focus on image recognition, object detection, and AI vision systems.

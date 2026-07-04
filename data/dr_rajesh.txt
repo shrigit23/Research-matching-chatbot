@@ -1,0 +1,6 @@
+Name: Dr. Rajesh Verma
+Department: CSE
+Research Areas: IoT, Embedded Systems
+Experience: 11 years
+Publications: 22 papers
+Description: Works on smart devices, sensors, and IoT applications.

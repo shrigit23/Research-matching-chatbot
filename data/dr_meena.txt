@@ -1,0 +1,6 @@
+Name: Dr. Meena Iyer
+Department: AI
+Research Areas: Artificial Intelligence, Machine Learning
+Experience: 7 years
+Publications: 14 papers
+Description: Focus on AI models, prediction systems, and automation.

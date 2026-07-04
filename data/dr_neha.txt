@@ -1,0 +1,6 @@
+Name: Dr. Neha Gupta
+Department: AI
+Research Areas: NLP, Data Science
+Experience: 6 years
+Publications: 12 papers
+Description: Works on sentiment analysis and data-driven NLP models.
