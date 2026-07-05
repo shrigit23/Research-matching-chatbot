@@ -281,6 +281,9 @@ python app.py
 * **Scalable architecture** supporting additional faculty profiles and institutions.
 
 ---
+## 🎥 Demo Video
+
+▶️ **Watch the Demo:** https://www.youtube.com/watch?v=306xeV3yk8A
 
 ## Authors
 
